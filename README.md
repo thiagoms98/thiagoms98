@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning: ReactJS<br>🎲 Fun fact: São Paulo FC fan! 🇾🇪</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning: ReactJS<br>🎲 Fun fact: São Paulo FC fan!</p>
 
 ###
 
@@ -24,6 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="40" alt="HTML logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height="40" alt="CSS logo"  />
   <img width="12" />
 </div>
 
