@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning: ReactJS<br>🎲 Fun fact: São Paulo FC fan!</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning: NodeJS<br>🎲 Fun fact: São Paulo FC fan!</p>
 
 ###
 
